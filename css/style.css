@@ -1,0 +1,18 @@
+#main-header img{
+    height: 100%;
+    width: 100%;
+}
+#main-header .bg-black{
+    color: #ffffff;
+    background: black;
+}
+#main-header .menu-item{
+    width: 30%;
+}
+#main-header .menu-item:hover{
+    opacity: 0.8;
+    cursor: pointer;
+}
+#home .bg-success{
+    background: rgba(49, 49, 223, 0.274) !important;
+}
